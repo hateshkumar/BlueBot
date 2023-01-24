@@ -1,2 +1,2 @@
 # BlueBot
-This repository contains coding assessment of BlueBot
+ This project is assessment for BlueBot to show the Google Map with Search Bar
