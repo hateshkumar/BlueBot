@@ -28,9 +28,9 @@
 	<string>LaunchScreen</string>
 	<key>UIMainStoryboardFile</key>
 	<string>Main</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>BlueBot required location permission to show nearBy result</string>
 	<key>UISupportedInterfaceOrientations</key>
-	<key>NSCameraUsageDescription</key>
-   	<string>BlueBot require your camera permission to proceed with capturing crops photo</string>
 	<array>
 		<string>UIInterfaceOrientationPortrait</string>
 		<string>UIInterfaceOrientationLandscapeLeft</string>
